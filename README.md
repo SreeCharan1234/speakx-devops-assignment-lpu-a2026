@@ -65,3 +65,38 @@ docker pull sreecharan94848/streamlit-app
    ```bash
    git clone https://github.com/your-repo/mobile-backend-deployment.git
    cd mobile-backend-deployment
+
+
+
+   
+
+
+## 1. Personalised Road Map 
+![image](https://github.com/SreeCharan1234/ISTD-Hackathon/blob/main/images/roadmap.png)
+![image](https://github.com/SreeCharan1234/ISTD-Hackathon/blob/main/images/leetcode.png)
+![image](https://github.com/SreeCharan1234/ISTD-Hackathon/blob/main/images/Screenshot%202025-01-11%20122732.png)
+
+## 2. Code Editor
+![image](https://github.com/SreeCharan1234/ISTD-Hackathon/blob/main/images/codeeditor.png)
+![image](https://github.com/SreeCharan1234/ISTD-Hackathon/blob/main/images/code%20editor%202.png)
+
+## 3. Test Yourself
+![image](https://github.com/SreeCharan1234/ISTD-Hackathon/blob/main/images/testyourself1.png)
+
+# Profile Builder
+
+## 4. sign up and Dashboard
+![image](https://github.com/SreeCharan1234/ISTD-Hackathon/blob/main/images/signup.png)
+![image](https://github.com/SreeCharan1234/ISTD-Hackathon/blob/main/images/dashboard.png)
+
+## 5.  1 vs 1
+![image](https://github.com/SreeCharan1234/ISTD-Hackathon/blob/main/images/1vs1%201.png)
+![image](https://github.com/SreeCharan1234/ISTD-Hackathon/blob/main/images/1%20vs%201%202.png)
+![image](https://github.com/SreeCharan1234/ISTD-Hackathon/blob/main/images/1%20vs%201%203.png)
+![image](https://github.com/SreeCharan1234/ISTD-Hackathon/blob/main/images/1%20vs%201.png)
+![image](https://github.com/SreeCharan1234/ISTD-Hackathon/blob/main/images/1%20vs%201%204.png)
+
+
+## 6.Linkdin Profile Builder
+![image](https://github.com/SreeCharan1234/ISTD-Hackathon/blob/main/images/linkedin.png)
+
