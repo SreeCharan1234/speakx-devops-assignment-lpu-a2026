@@ -4,7 +4,7 @@ FROM python:3.9
 
 WORKDIR /app
 
-# Copy app files to Docker image
+
 COPY . /app
 
 # Install dependencies
