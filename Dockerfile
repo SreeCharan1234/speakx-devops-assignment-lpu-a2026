@@ -1,20 +1,18 @@
-# Use a Python base image
-FROM python:3.9-slim-buster
+# Use official Python image
+FROM python:3.9
 
-# Set the working directory in the container
+
 WORKDIR /app
 
-# Copy the requirements file into the container
-COPY requirements.txt .
+# Copy app files to Docker image
+COPY . /app
 
-# Install the Python dependencies
+# Install dependencies
+RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
-# Copy the application code into the container
-COPY . .
-
-# Expose the port Streamlit runs on (default 8501)
+# Expose Streamlit port
 EXPOSE 8501
 
-# Set the entrypoint to run Streamlit
-ENTRYPOINT ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+# Run Streamlit app
+CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
